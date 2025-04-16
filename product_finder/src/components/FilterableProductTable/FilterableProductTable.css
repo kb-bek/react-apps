@@ -1,0 +1,7 @@
+.filterable-product-table {
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    width: fit-content;
+}
